@@ -1,0 +1,6 @@
+git init -> incia la esucha a los cambios
+git add [./todo][nombrearchivo]-> añade los archivos al area de ensayo
+git status -s -> lista el seguimiento de los archivos por git 
+git log --oneline -> Lista los commit en el area local
+git reset --hard [codigoCommit] -> vuelve al commit elegido, borrando los anteriores
+git commit -am ""-> hacer add y commit a la vez con mensaje
